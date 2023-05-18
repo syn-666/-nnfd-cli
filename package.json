@@ -1,6 +1,6 @@
 {
   "name": "@nnfd/cli",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "",
   "bin": {
     "nn": "./bin/index.js"
@@ -14,9 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.2.0",
+    "child_process": "^1.0.2",
     "commander": "^10.0.1",
     "ejs": "^3.1.9",
-    "execa": "^7.1.1",
     "inquirer": "^9.2.3",
     "mkdirp": "^3.0.1"
   }
